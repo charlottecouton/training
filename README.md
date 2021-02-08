@@ -1,1 +1,2 @@
 # training
+git add.gitignoreC++
